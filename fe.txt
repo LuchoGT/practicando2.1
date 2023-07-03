@@ -1,3 +1,5 @@
 Bienvenido al curso de GIT
 
 SOY LUCHO Y ESTOY PRACTICANDO LOS COMANDOS DE GIT.
+
+Me despido del curso de GIT.
